@@ -74,7 +74,7 @@ Project Description :
     - The following images are the graph and Tree.
 
 
-<img width="436" alt="Image" src="https://github.com/user-attachments/assets/839d350b-4c0a-4f31-8540-4731790c7c7d" />
+<img height="1000" width="1000" alt="Image" src="https://github.com/user-attachments/assets/839d350b-4c0a-4f31-8540-4731790c7c7d" />
   
 
 
