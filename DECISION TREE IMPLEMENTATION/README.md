@@ -76,7 +76,7 @@ Project Description :
 
 <img height="500" width="700" alt="Image" src="https://github.com/user-attachments/assets/839d350b-4c0a-4f31-8540-4731790c7c7d" />
   
-<img width="260" alt="Image" src="https://github.com/user-attachments/assets/c3ee4b48-7127-463a-b6ac-a1171d8cd80d" />
+<img height="500" width="500" alt="Image" src="https://github.com/user-attachments/assets/c3ee4b48-7127-463a-b6ac-a1171d8cd80d" />
 
 
 
