@@ -93,7 +93,7 @@ Project Description :
 
 
 
-<img height="500" width="500" alt="Image" src="https://github.com/user-attachments/assets/711a1781-b130-4dc3-86ae-f268778f207f" />
+<img height="300" width="500" alt="Image" src="https://github.com/user-attachments/assets/711a1781-b130-4dc3-86ae-f268778f207f" />
 
 
 
